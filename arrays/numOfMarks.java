@@ -1,4 +1,22 @@
-package javaexercises.arrays;
+/**
+ * Write a program called Marks, which prompts user for the number of marks,
+ * reads it from the keyboard, and saves it in an int variable called "numOfMarks".
+ * It then prompts user for the marks and saves them 
+ * in an int array called "marks".  
+ * Your program shall check that the marks is between 0 and 100.
+ * The number of marks is between 1 to 30
+ * The program should display number of marks that are more than 50.
+ *
+ * An example of output is shown below:-
+ * 
+ * Enter the number of marks: 2
+ * Enter the marks 1: 112
+ * Invalid marks, try again...
+ * Enter marks 1: 49
+ * Enter marks 2: 60
+ * Number of marks more than 50 is 1
+ * 
+ */package javaexercises.arrays;
 
 import java.util.Scanner;
 
