@@ -1,0 +1,33 @@
+Please help to write a test program to execute the class
+
+Implement the following class program in Java.
+
+public Bank()
+// default constructor starts checking and savings account with zero dollars.
+
+public Bank(double c, double s)
+// parameter creates an object with c dollars in checking and s dollars in savings.
+
+public double getChecking()
+// returns the checking account balance
+
+public double getSavings()
+// returns the savings account balance
+
+public double getCombined()
+// returns the combined balance of the checking and savings account
+
+public void changeChecking(double amount)
+// alters the balance of the checking account by the amount parameter
+
+public void changeSavings(double amount)
+// alters the balance of the savings account by the amount parameter
+
+public void closeChecking()
+// alters the checking account balance to zero
+
+public void closeSavings()
+// alters the savings account balance to zero
+
+
+Then, write  a test program to execute the class. 
